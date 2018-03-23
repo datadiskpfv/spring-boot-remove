@@ -1,5 +1,4 @@
 #Spring Advanced Core course from Spring framework Guru
 
-Learning JPA, Spring Security, JMS, Tasks and lots more
-
-We start with a older spring version and upgrade to Spring 5, using the latest features.
+Start with a fully configured Spring boot 5 application and then remove Spring boot,
+this helps to understand what Spring boot does behind the scenes regarding auto configuration.
